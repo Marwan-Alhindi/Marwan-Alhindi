@@ -20,5 +20,6 @@ I’m actively looking for roles in Series A/B startups where I can build innova
 
 📬 Let’s Connect!
 
-[![LinkedIn](https://www.linkedin.com/in/marwan-alhindi-3a6726285/)
-[![Portfolio](https://marwanalhindi.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/marwan-alhindi-3a6726285/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=Firefox&style=for-the-badge)](https://marwanalhindi.me/)
