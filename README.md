@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I’m Marwan! 👋
 
-<!--
-**Marwan-Alhindi/Marwan-Alhindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data scientist & software developer from Saudi Arabia 🇸🇦.
 
-Here are some ideas to get you started:
+# 💡 Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Building AI-powered applications
+🔹 Developing AI-driven software
+
+# 🚀 What I’m Building
+
+I’m currently developing LangPulse, a web app that lets users access multiple LLMs, collaborate in real-time, and enhance productivity through AI-assisted discussions. Originally a learning project, it’s evolving into something much bigger!
+
+# 🛠 Tech Stack I’m Mastering
+
+🔹 Python | NumPy | Pandas | Matplotlib | PyTorch | SQL
+🔹 React | Django / FastAPI
+
+# 🚀 Open to Opportunities!
+
+I’m actively looking for roles in Series A/B startups where I can build innovative products. I’m also open to collaborating on exciting projects—if your idea is fun to build, let’s talk! 👯
+
+# 📬 Let’s Connect!
+
+🔗 LinkedIn
+🌍 Portfolio
