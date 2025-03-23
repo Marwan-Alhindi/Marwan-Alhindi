@@ -14,7 +14,7 @@ I’m currently developing LangPulse, a web app that lets users access multiple 
 
 🔹 Python | NumPy | Pandas | Matplotlib | PyTorch | SQL
 
-🔹 React | Django / FastAPI
+🔹 React | Tailwind | Typescript | FastAPI
 
 I’m actively looking for roles in Series A/B startups where I can build innovative products. I’m also open to collaborating on exciting projects—if your idea is fun to build, let’s talk! 👯
 
