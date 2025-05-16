@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marwan — AI Engineer & Builder
+# 👋 Hi, I’m Marwan — AI Engineer
 
 I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI systems.
 
@@ -14,7 +14,7 @@ I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI
   <img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; max-width: 500px; width: 100%;" />
 </div>
 
-# ✨ Some of My Dreams & Goals
+# Some of My Dreams & Goals
 - To rent an apartment with passionate people by the shore and work on meaningful tech solutions every day.
 - To apply some of the ideas from Iain M. Banks’ The Culture Series.
 - To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
