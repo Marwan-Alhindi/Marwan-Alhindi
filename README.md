@@ -11,6 +11,7 @@ About Me:
 - Favorite movies: Arrival, WALL·E
 
 ![WALL·E](walle.gif)
+![Arrival](linguisticrelativity.gif)
 
 My dreams:
 - To rent an apartment with passionate people by the shore and work on meaningful tech solutions every day.
