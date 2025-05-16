@@ -103,5 +103,5 @@ My love for math and technology drives me to create something meaningful at thei
 The goal in life is to optimize your inputs to maximize your impact. While the input areas I’ve outlined may not capture the entire space of possibilities—and circumstances naturally vary from person to person—I believe this core principle holds true for everyone. To effectively manage this wide array of inputs, we all need a second brain system—one that combines both task management and knowledge organization. Personally, I rely on Todoist for structured execution and Dendron for organizing and evolving my thoughts.
 
 <div align="center">
-  <img src="brainfactory.png" alt="Brain Factory Diagram" style="max-width: 200x; width: 80%; border-radius: 12px;" />
+  <img src="brainfactory.png" alt="Brain Factory Diagram" style="max-width: 200x; width: 80%; border-radius: 100px;" />
 </div>
