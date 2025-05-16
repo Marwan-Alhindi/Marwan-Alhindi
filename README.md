@@ -1,23 +1,25 @@
-# Hello World!
+# 👋 Hi, I’m Marwan — AI Engineer & Builder
 
-My name is Marwan, I'm an AI Engineer skilled in building LLM- and AI-powered apps and agentic systems. Experienced in Python, FastAPI, PyTorch, LangChain, and React, with a
-focus on delivering impactful, user-centered AI products.
+I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI systems.
 
-About Me:
+# About Me:
 - Linear Algebra & Multivariable Calculus
 - Gym
 - Food
 - Paddle
 - Favorite movies: Arrival, WALL·E
 
-<img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; width: 100%; max-width: 500px;" />
+<!-- ![Arrival](linguisticrelativity.gif) -->
+<div align="center">
+  <img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; max-width: 500px; width: 100%;" />
+</div>
 
-My dreams:
+# ✨ Some of My Dreams & Goals
 - To rent an apartment with passionate people by the shore and work on meaningful tech solutions every day.
 - To apply some of the ideas from Iain M. Banks’ The Culture Series.
 - To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
 
-What I Build With:
+# What I Build With:
 
 ## Model Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
