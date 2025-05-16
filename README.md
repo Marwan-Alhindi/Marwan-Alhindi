@@ -10,8 +10,7 @@ About Me:
 - Paddle
 - Favorite movies: Arrival, WALL·E
 
-![WALL·E](walle.gif)
-![Arrival](linguisticrelativity.gif)
+<img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; width: 100%; max-width: 500px;" />
 
 My dreams:
 - To rent an apartment with passionate people by the shore and work on meaningful tech solutions every day.
