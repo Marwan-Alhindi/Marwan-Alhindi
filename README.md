@@ -1,29 +1,20 @@
-# 👋 Hi, I’m Marwan — AI Engineer
+# 👋 Hi, I’m Marwan — AI Engineer & Builder
 
 I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI systems.
 
-<table>
-<tr>
-<td>
+# About Me:
+- Linear Algebra & Multivariable Calculus
+- Gym
+- Food
+- Paddle
+- Favorite movies: Arrival, WALL·E
 
-<ul>
-  <li>Linear Algebra & Multivariable Calculus</li>
-  <li>Gym</li>
-  <li>Food</li>
-  <li>Paddle</li>
-  <li>Favorite movies: <em>Arrival</em>, <em>WALL·E</em></li>
-</ul>
+<!-- ![Arrival](linguisticrelativity.gif) -->
+<div align="center">
+  <img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; max-width: 500px; width: 100%;" />
+</div>
 
-</td>
-<td>
-
-<img src="linguisticrelativity.gif" width="250" style="border-radius: 12px;" alt="Arrival GIF"/>
-
-</td>
-</tr>
-</table>
-
-# Some of My Dreams & Goals
+# ✨ Some of My Dreams & Goals
 - To rent an apartment with passionate people by the shore and work on meaningful tech solutions every day.
 - To apply some of the ideas from Iain M. Banks’ The Culture Series.
 - To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
