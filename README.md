@@ -1,27 +1,33 @@
-# 👋 Hi, I’m Marwan — AI Engineer
+# 👋 Hi, I’m Marwan — I like math and coding.
 
-I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI systems.
+Everything is numbers, and the universe is a giant system of functions transforming those numbers. I fell in love with numbers when I realized they’re the one true universal language — capable of translating anything, from the rhythm of nature to the architecture of thought.
 
-# About Me:
-- Linear Algebra & Multivariable Calculus
-- Gym
-- Food
-- Paddle
-- Favorite movies: Arrival, WALL·E
+My love for math and technology drives me to create something meaningful at their intersection — and one day, I will.
+
+## I like to:
+- Go to the Gym
+- Eat Delicious Food
+- Play Paddle
+- Socialize (sometimes <.<)
+
+## Favorite
+- Movies: Arrival, WALL·E
+- Sci-fi series: Iain M. Banks’ The Culture Series.
+
+## Always studying:
+- Linear Algebra (special)
+- Multivariate Calculus
+- ODEs PDEs
+- Probability & Statistics
 
 <!-- ![Arrival](linguisticrelativity.gif) -->
 <div align="center">
   <img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; max-width: 500px; width: 100%;" />
 </div>
 
-# Some of My Dreams & Goals
-- To rent an apartment with passionate people by the shore and work on meaningful tech solutions every day.
-- To apply some of the ideas from Iain M. Banks’ The Culture Series.
-- To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
+## What I Build With:
 
-# What I Build With:
-
-## Model Development
+### Model Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -45,8 +51,7 @@ I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI
 
 ![n8n](https://img.shields.io/badge/n8n-EF7C00?logo=n8n&logoColor=white)
 
-## Application Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+### Application Development
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
@@ -57,7 +62,7 @@ I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI
 ![OOD](https://img.shields.io/badge/OOD-6366F1?logo=design&logoColor=white)
 
 
-## Infrastructure
+### Infrastructure
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-4F46E5?logo=database&logoColor=white)
@@ -75,7 +80,7 @@ I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-## Soft Skills
+### Soft Skills
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white) 
@@ -87,3 +92,16 @@ I’m Marwan, an AI Engineer focused on building LLM-powered apps and agentic AI
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Marwan-Alhindi/Marwan-Alhindi/output/snake.svg" alt="Snake animation" />
+
+## Some of My Dreams & Goals
+- To have an apartment with passionate people by the shore and work on meaningful tech solutions every day.
+- To apply some of the ideas from Iain M. Banks’ The Culture Series.
+- To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
+
+
+## View Your Brain as a Factory
+<div align="center">
+  <img src="brainfactory.png" alt="Brain Factory Diagram" style="max-width: 100%; border-radius: 12px;" />
+</div>
+
+The goal in life is to optimize your inputs to maximize your impact. While the input areas I’ve outlined may not capture the entire space of possibilities—and circumstances naturally vary from person to person—I believe this core principle holds true for everyone. To effectively manage this wide array of inputs, we all need a second brain system—one that combines both task management and knowledge organization. Personally, I rely on Todoist for structured execution and Dendron for organizing and evolving my thoughts.
