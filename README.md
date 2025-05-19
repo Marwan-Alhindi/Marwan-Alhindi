@@ -2,27 +2,17 @@
 
 I want to be able to create an immersive digital experiences - crafting spaces and filling them with intelligence, emotion and meaning. My love for math, technology and art drives me to create something meaningful at their intersection — and one day, I will.
 
-## I like to:
-- Go to the Gym
-- Eat Delicious Food
-- Play Paddle
-- Socialize (sometimes <.<)
-
-## Favorite
-- Movies: Arrival, WALL·E
-- Sci-fi series: Iain M. Banks’ The Culture Series.
-
-## Always studying:
-- Linear Algebra (special)
-- Multivariate Calculus
-- ODEs PDEs
-- Probability & Statistics
-- Geometry & Trigonometry
-
 <!-- ![Arrival](linguisticrelativity.gif) -->
 <div align="center">
   <img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; max-width: 500px; width: 100%;" />
 </div>
+
+## The Math I use and learn:
+- Linear Algebra (My favorite)
+- Multivariate Calculus
+- ODEs PDEs
+- Probability & Statistics
+- Geometry & Trigonometry
 
 ## What I Build With:
 I have experience with a wide range of technological frameworks and concepts, but my primary focus—and what I consistently strive to deepen—is centered around the tools and technologies listed below.
@@ -64,11 +54,20 @@ I have experience with a wide range of technological frameworks and concepts, bu
 
 <img src="https://raw.githubusercontent.com/Marwan-Alhindi/Marwan-Alhindi/output/snake.svg" alt="Snake animation" />
 
+## I like to:
+- Go to the Gym
+- Eat Delicious Food
+- Play Paddle, tennis table, volleyball
+- Socialize (sometimes <.<)
+
+## Favorite
+- Movies: Arrival, WALL·E
+- Sci-fi series: Iain M. Banks’ The Culture Series.
+
 ## Some of My Dreams & Goals
 - To have an apartment with passionate people by the shore and work on meaningful tech solutions every day.
 - To apply some of the ideas from Iain M. Banks’ The Culture Series.
 - To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
-
 
 ## View Your Brain as a Factory
 The goal in life is to optimize your inputs to maximize your impact. While the input areas I’ve outlined may not capture the entire space of possibilities—and circumstances naturally vary from person to person—I believe this core principle holds true for everyone. To effectively manage this wide array of inputs, we all need a second brain system—one that combines both task management and knowledge organization. Personally, I rely on Todoist for structured execution and Dendron for organizing and evolving my thoughts.
