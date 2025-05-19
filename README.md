@@ -59,6 +59,7 @@ I have experience with a wide range of technological frameworks and concepts, bu
 - Eat Delicious Food
 - Play Paddle, tennis table, volleyball
 - Socialize (sometimes <.<)
+- Board games and coop games
 
 ## Favorite
 - Movies: Arrival, WALL·E
