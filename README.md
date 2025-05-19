@@ -7,14 +7,14 @@ I want to be able to create an immersive digital experiences - crafting spaces a
   <img src="linguisticrelativity.gif" alt="Arrival" style="border-radius: 12px; max-width: 500px; width: 100%;" />
 </div>
 
-## The Math I use and learn:
+## Math Stack
 - Linear Algebra (My favorite)
 - Multivariate Calculus
 - ODEs PDEs
 - Probability & Statistics
 - Geometry & Trigonometry
 
-## What I Build With:
+## Tech Stack
 I have experience with a wide range of technological frameworks and concepts, but my primary focus—and what I consistently strive to deepen—is centered around the tools and technologies listed below.
 
 ### Model Development
