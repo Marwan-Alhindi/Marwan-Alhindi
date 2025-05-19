@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marwan — I like math and coding.
+# 👋 Hi, I’m Marwan — I like math, coding and art.
 
 Everything is numbers, and the universe is a giant system of functions transforming those numbers. I fell in love with numbers when I realized they’re the one true universal language — capable of translating anything, from the rhythm of nature to the architecture of thought.
 
