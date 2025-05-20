@@ -54,6 +54,13 @@ I have experience with a wide range of technological frameworks and concepts, bu
 
 <img src="https://raw.githubusercontent.com/Marwan-Alhindi/Marwan-Alhindi/output/snake.svg" alt="Snake animation" />
 
+## View Your Brain as a Factory
+The goal in life is to optimize your inputs to maximize your impact. While the input areas I’ve outlined may not capture the entire space of possibilities—and circumstances naturally vary from person to person—I believe this core principle holds true for everyone. To effectively manage this wide array of inputs, we all need a second brain system—one that combines both task management and knowledge organization. Personally, I rely on Todoist for structured execution and Dendron for organizing and evolving my thoughts.
+
+<div align="center">
+  <img src="brainfactory.png" alt="Brain Factory Diagram" style="max-width: 200x; width: 80%; border-radius: 100px;" />
+</div>
+
 ## I like to:
 - Spend each morning after breakfast working on a project or learning something I love at my favorite library or café.
 - Teach. Its a rewarding experience.
@@ -71,10 +78,3 @@ I have experience with a wide range of technological frameworks and concepts, bu
 - To have an apartment with passionate people by the shore and work on meaningful tech solutions every day.
 - To apply some of the ideas from Iain M. Banks’ The Culture Series.
 - To achieve financial freedom that allows me to fully focus on learning and building the things I want to.
-
-## View Your Brain as a Factory
-The goal in life is to optimize your inputs to maximize your impact. While the input areas I’ve outlined may not capture the entire space of possibilities—and circumstances naturally vary from person to person—I believe this core principle holds true for everyone. To effectively manage this wide array of inputs, we all need a second brain system—one that combines both task management and knowledge organization. Personally, I rely on Todoist for structured execution and Dendron for organizing and evolving my thoughts.
-
-<div align="center">
-  <img src="brainfactory.png" alt="Brain Factory Diagram" style="max-width: 200x; width: 80%; border-radius: 100px;" />
-</div>
