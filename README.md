@@ -55,6 +55,8 @@ I have experience with a wide range of technological frameworks and concepts, bu
 <img src="https://raw.githubusercontent.com/Marwan-Alhindi/Marwan-Alhindi/output/snake.svg" alt="Snake animation" />
 
 ## I like to:
+- Spend each morning after breakfast working on a project or learning something I love at my favorite library or café.
+- Teach. Its a rewarding experience.
 - Go to the Gym
 - Eat Delicious Food
 - Play Paddle, tennis table, volleyball
