@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marwan — I like math, coding and art.
 
-I want to be able to create an immersive digital experiences - crafting spaces and filling them with intelligence, emotion and meaning. My love for math, technology and art drives me to create something meaningful at their intersection — and one day, I will.
+I want to be able to create an immersive digital experiences - crafting spaces and filling them with intelligence, emotion and meaning. My love for math, technology and art drives me to create something meaningful at their intersection.
 
 <!-- ![Arrival](linguisticrelativity.gif) -->
 <div align="center">
