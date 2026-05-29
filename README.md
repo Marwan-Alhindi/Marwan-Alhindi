@@ -1,7 +1,7 @@
 # Hi, I’m Marwan
 
-I like types and abstractions.
+Learning types and abstractions.
 
-Building agents with **Python**, **Pydantic**, **FastAPI** and **LangChain Ecosystem**
+Learning how to agents with **Python**, **Pydantic**, **FastAPI** and **LangChain Ecosystem**
 
 Outside of code, I play FFXIV, walk, and lift.
