@@ -2,4 +2,4 @@
 
 Learning types and abstractions.
 
-Learning how to agents with **Python**, **Pydantic**, **FastAPI** and **LangChain Ecosystem**
+Learning how to build reliable, maintainable, and scalable agents with **Python**, **Pydantic**, **FastAPI** and **LangChain Ecosystem**
