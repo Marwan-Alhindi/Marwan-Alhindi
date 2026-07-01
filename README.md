@@ -7,11 +7,7 @@
 - <img src="assets/ffxiv_icon_quest.webp" width="20" alt="FFXIV" style="vertical-align: middle"/> Outside of building, I play [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/14501080/).
 - 🏋️ I'm getting into weight lifting.
 
-I'm learning how to build reliable, maintainable, and scalable agents with Python, Pydantic, FastAPI and the LangChain Ecosystem. I learn by building. I'll learn something, build with it, then circle back to learn more when the next problem demands it — and so on. I reach for learning content only when I need it to keep moving. The rest of the time, I'm trying to build something.
-
-Right now, I'm building:
-
-- **Glyph**
+I'm learning how to build reliable, maintainable, and scalable agents with Python, Pydantic, FastAPI and the LangChain Ecosystem. I learn by building.
 
 ## Connect with me
 
