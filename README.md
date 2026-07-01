@@ -12,5 +12,4 @@ I'm learning how to build reliable, maintainable, and scalable agents with Pytho
 ## Connect with me
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marwan-alhindi-3a6726285/)
-- <img src="assets/github-logo.png" width="20" alt="GitHub" style="vertical-align: middle"/> Check out my work on [GitHub](https://github.com/Marwan-Alhindi)
 - ✉️ Email me at [marwan.fa.alhindi@gmail.com](mailto:marwan.fa.alhindi@gmail.com)
