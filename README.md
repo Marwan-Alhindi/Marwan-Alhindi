@@ -6,11 +6,9 @@
 - 🎓 I graduated with a degree in Data Science from the [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/), and I'm currently doing my master's in Computer Science at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
 - <img src="assets/ffxiv_icon_quest.webp" width="20" alt="FFXIV" style="vertical-align: middle"/> Outside of coding, I play [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/14501080/).
 - 🏋️ I'm getting into weight lifting.
-
-I'm learning how to build reliable, maintainable, and scalable agents with Python, Pydantic, FastAPI and the LangChain Ecosystem.
-
 - 🐛 Currently grinding: bugs (and loving it)
 
+I'm learning how to build reliable, maintainable, and scalable agents with Python, Pydantic, FastAPI and the LangChain Ecosystem.
 
 ## Connect with me
 
