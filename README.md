@@ -9,6 +9,9 @@
 
 I'm learning how to build reliable, maintainable, and scalable agents with Python, Pydantic, FastAPI and the LangChain Ecosystem.
 
+- 🐛 Currently grinding: bugs (and loving it)
+
+
 ## Connect with me
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marwan-alhindi-3a6726285/)
