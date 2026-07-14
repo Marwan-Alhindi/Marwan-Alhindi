@@ -9,7 +9,7 @@
 - 🐛 I like debugging
 - ☕ Most of my coding happens in cafés and libraries. Fuel a drink: [Ko-fi](https://ko-fi.com/marwanalhindi)
 
-I'm learning how to build reliable, maintainable, and scalable agents with Python, Pydantic, FastAPI and the LangChain Ecosystem.
+I'm learning how to build reliable, maintainable, and scalable agents and softwares with Python, Pydantic, FastAPI and the LangChain Ecosystem.
 
 ## Connect with me
 
