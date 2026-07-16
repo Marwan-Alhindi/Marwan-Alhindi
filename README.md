@@ -6,9 +6,6 @@
 - 🎓 I graduated with a degree in Data Science from the [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/), and I'm currently doing my master's in Computer Science at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
 - 🐛 I like debugging
 - ☕ Most of my coding happens in cafés and libraries. Support me and Fuel a drink ❤️: [Ko-fi](https://ko-fi.com/marwanalhindi)
-
--
-
 - 🏋️ I'm getting into weight lifting.
 - <img src="assets/ffxiv_icon_quest.webp" width="20" alt="FFXIV" style="vertical-align: middle"/> Outside of coding, I play [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/14501080/).
 
